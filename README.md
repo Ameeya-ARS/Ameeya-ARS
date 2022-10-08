@@ -1,11 +1,6 @@
 ### Hi there, I'm Ameeya
 
-## I'm currently a 2nd year CSEstudent at IITB
-
-- 🌱 I'm current trying to learn Javascript
-- 🌱 I’m currently learning Django Framework
-- 🥅 2022 Goals: Trying to Learn as much new Technologies as possible
-- ⚡ Fun fact: I can listen to songs for even 12 hours a day
+## I'm currently a 3rd year CSEstudent at IITB
 
 ### Connect with me:
 
